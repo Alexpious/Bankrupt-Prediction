@@ -115,7 +115,8 @@ def make_prediction(datafile, model_file):
 
 ## 🖼️ Feature Importance
 
-<img src="bankrupt_prediction/IMG_7064.jpeg" width="600"/>
+![Feature Importance](bankrupt_prediction/IMG_7064.jpeg)
+
 
 ---
 
